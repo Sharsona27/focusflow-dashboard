@@ -32,7 +32,7 @@ cd FocusFlow
 # 2. Set up the backend
 cd backend
 python -m venv venv
-# On Windows: venv\Scripts\activate
+On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
 # 3. Set up the frontend
@@ -41,11 +41,9 @@ npm install
 npm run dev  # or npm run build && npm start for production
 # 4. Database Setup
 Make sure your database (MySQL/PostgreSQL/MongoDB) is running.
-
 Run the migration script or use the provided schema.sql file.
-
 Update config.py or .env with your DB credentials.
 
-📄 License
-MIT License © 2025 Sonal Sharma
+📄 License 
+MIT License © 2025 Sonal Sharma 
 Feel free to use, modify, and distribute this software with attribution.
