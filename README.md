@@ -19,8 +19,8 @@
 | Frontend         | Backend     | Database     | Other Tools      |
 |------------------|-------------|--------------|------------------|
 | HTML, CSS, JS /  |  Flask /    |  MySQL /     |   Git, GitHub,   | 
-  React /             Node.js /     MongoDB /      Canva, Figma 
-  Next.js             Django        SQLite   
+|  React /         |   Node.js / |    MongoDB / |     Canva, Figma |
+|  Next.js         |    Django   |     SQLite   |                  |
 
 ---  
 
