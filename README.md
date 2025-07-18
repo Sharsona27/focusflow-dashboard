@@ -45,5 +45,5 @@ Run the migration script or use the provided schema.sql file.
 Update config.py or .env with your DB credentials.
 
 📄 License 
-MIT License © 2025 Sonal Sharma 
+# MIT License © 2025 Sonal Sharma 
 Feel free to use, modify, and distribute this software with attribution.
